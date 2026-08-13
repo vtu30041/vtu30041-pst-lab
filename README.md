@@ -4,4 +4,5 @@ week2.2[click here](https://leetcode.com/problems/sort-array-by-parity/submissio
 session3 week 3.1[click here](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)
 week 3.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)
 session4 week 4.1[click here](https://leetcode.com/problems/running-sum-of-1d-array/)
+week 4.2[click here](https://leetcode.com/problems/richest-customer-wealth/submissions/2105077422/)
 
