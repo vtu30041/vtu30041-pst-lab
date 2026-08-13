@@ -8,3 +8,4 @@ week 4.2[click here](https://leetcode.com/problems/richest-customer-wealth/submi
 session5 week 5.1[click here](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2105081100/)
 weeek 5.2[click here](https://leetcode.com/problems/find-pivot-index/submissions/2105084332/)
 session6 week(2)6.1[click here](https://leetcode.com/problems/build-array-from-permutation/submissions/2105091660/)
+week6.2[click here](https://leetcode.com/problems/shuffle-the-array/submissions/2105094744/)
