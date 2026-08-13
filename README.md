@@ -6,3 +6,4 @@ week 3.2[click here](https://www.hackerrank.com/challenges/java-comparator/probl
 session4 week 4.1[click here](https://leetcode.com/problems/running-sum-of-1d-array/)
 week 4.2[click here](https://leetcode.com/problems/richest-customer-wealth/submissions/2105077422/)
 session5 week 5.1[click here](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2105081100/)
+weeek 5.2[click here](https://leetcode.com/problems/find-pivot-index/submissions/2105084332/)
