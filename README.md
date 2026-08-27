@@ -11,5 +11,6 @@ session6 week(2)6.1[click here](https://leetcode.com/problems/build-array-from-p
 week6.2[click here](https://leetcode.com/problems/shuffle-the-array/submissions/2105094744/)
 session7 week7.1[click here](https://leetcode.com/problems/remove-element/submissions/2105099766/)
 week7.2[click here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2121541216/)
-week8.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2121549401/)
+sessio8 week8.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2121549401/)
 week8.2[click here](https://leetcode.com/problems/find-the-highest-altitude/submissions/2121556670/)
+session9 week9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/2121558700/)
