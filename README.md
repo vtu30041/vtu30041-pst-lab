@@ -22,3 +22,4 @@ week11.2[click here](https://leetcode.com/problems/number-of-days-between-two-da
 session12 week12.1[click here](https://leetcode.com/problems/day-of-the-year/submissions/2121587922/)
 week12.2[click here](https://leetcode.com/problems/day-of-the-week/submissions/2121589577/)
 session13 week13.1[click here](https://www.hackerrank.com/challenges/java-priority-queue/problem)
+week13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/problem)
