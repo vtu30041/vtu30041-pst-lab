@@ -24,3 +24,4 @@ week12.2[click here](https://leetcode.com/problems/day-of-the-week/submissions/2
 session13 week13.1[click here](https://www.hackerrank.com/challenges/java-priority-queue/problem)
 week13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/problem)
 session14 week14.1[click here](https://leetcode.com/problems/largest-number/submissions/2121608311/)
+week14.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)
