@@ -16,3 +16,4 @@ week8.2[click here](https://leetcode.com/problems/find-the-highest-altitude/subm
 session9 week9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/2121558700/)
 week 9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissions/2121561859/)
 session10 week10.1[click here](https://www.hackerrank.com/challenges/java-dequeue/problem)
+week10.2[click here](https://www.hackerrank.com/challenges/java-hashset/problem)
