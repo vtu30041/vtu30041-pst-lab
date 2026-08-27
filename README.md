@@ -15,3 +15,4 @@ sessio8 week8.1[click here](https://leetcode.com/problems/maximum-subarray/submi
 week8.2[click here](https://leetcode.com/problems/find-the-highest-altitude/submissions/2121556670/)
 session9 week9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/2121558700/)
 week 9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissions/2121561859/)
+session10 week10.1[click here](https://www.hackerrank.com/challenges/java-dequeue/problem)
