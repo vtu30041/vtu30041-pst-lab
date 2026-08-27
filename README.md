@@ -21,3 +21,4 @@ session11 week(3)11.1[click here](https://www.hackerrank.com/challenges/java-dat
 week11.2[click here](https://leetcode.com/problems/number-of-days-between-two-dates/submissions/2121585840/)
 session12 week12.1[click here](https://leetcode.com/problems/day-of-the-year/submissions/2121587922/)
 week12.2[click here](https://leetcode.com/problems/day-of-the-week/submissions/2121589577/)
+session13 week13.1[click here](https://www.hackerrank.com/challenges/java-priority-queue/problem)
