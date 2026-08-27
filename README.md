@@ -14,3 +14,4 @@ week7.2[click here](https://leetcode.com/problems/remove-duplicates-from-sorted-
 sessio8 week8.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2121549401/)
 week8.2[click here](https://leetcode.com/problems/find-the-highest-altitude/submissions/2121556670/)
 session9 week9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/2121558700/)
+week 9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissions/2121561859/)
