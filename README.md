@@ -18,3 +18,4 @@ week 9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submi
 session10 week10.1[click here](https://www.hackerrank.com/challenges/java-dequeue/problem)
 week10.2[click here](https://www.hackerrank.com/challenges/java-hashset/problem)
 session11 week(3)11.1[click here](https://www.hackerrank.com/challenges/java-date-and-time/problem)
+week11.2[click here](https://leetcode.com/problems/number-of-days-between-two-dates/submissions/2121585840/)
