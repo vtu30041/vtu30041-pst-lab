@@ -26,4 +26,6 @@ week13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/proble
 session14 week14.1[click here](https://leetcode.com/problems/largest-number/submissions/2121608311/)
 week14.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)
 session15 week15.1[click here](https://leetcode.com/problems/sort-the-people/submissions/2121612561/)
+unit(2)week(4)1.1[click here](https://leetcode.com/problems/determine-if-string-halves-are-alike/submissions/2128043765/)
+
 unit(3) week7 session(1)[click here](https://leetcode.com/problems/design-parking-system/submissions/2128028138/)
