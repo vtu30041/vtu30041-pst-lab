@@ -29,4 +29,6 @@ session15 week15.1[click here](https://leetcode.com/problems/sort-the-people/sub
 unit(2){week(4)}1.1[click here](https://leetcode.com/problems/determine-if-string-halves-are-alike/submissions/2128043765/)
 session1.2[click here](https://www.codechef.com/problems/LAPIN)
 session2.1[click here](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+session2.2[click here](https://leetcode.com/problems/contains-duplicate/submissions/2128063295/)
+
 unit(3) week7 session(1)[click here](https://leetcode.com/problems/design-parking-system/submissions/2128028138/)
