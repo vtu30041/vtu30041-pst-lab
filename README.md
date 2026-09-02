@@ -31,5 +31,6 @@ session1.2[click here](https://www.codechef.com/problems/LAPIN)
 session2.1[click here](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 session2.2[click here](https://leetcode.com/problems/contains-duplicate/submissions/2128063295/)
 session3.1[click here](https://www.hackerrank.com/challenges/time-conversion/problem)
+session3.2[click here](https://leetcode.com/problems/move-zeroes/)
 
 unit(3) week7 session(1)[click here](https://leetcode.com/problems/design-parking-system/submissions/2128028138/)
