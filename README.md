@@ -33,5 +33,6 @@ session2.2[click here](https://leetcode.com/problems/contains-duplicate/submissi
 session3.1[click here](https://www.hackerrank.com/challenges/time-conversion/problem)
 session3.2[click here](https://leetcode.com/problems/move-zeroes/)
 session4.1[click here](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+session4.2[click here](https://leetcode.com/problems/transpose-matrix/submissions/2135938286/)
 
 unit(3) week7 session(1)[click here](https://leetcode.com/problems/design-parking-system/submissions/2128028138/)
