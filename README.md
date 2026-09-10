@@ -37,6 +37,8 @@ session4.2[click here](https://leetcode.com/problems/transpose-matrix/submission
 session5.1[click here](https://leetcode.com/problems/matrix-block-sum/submissions/2135946255/)
 session5.2[click here](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
 week{5}session1.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2137095841/)
+session1.2[click here](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+
 
 
 
