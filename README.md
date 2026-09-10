@@ -38,8 +38,12 @@ session5.1[click here](https://leetcode.com/problems/matrix-block-sum/submission
 session5.2[click here](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
 week{5}session1.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2137095841/)
 session1.2[click here](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
-
-
-
+session2.1[click here](https://www.hackerrank.com/challenges/maxsubarray/problem)
+session2.2[click here](https://leetcode.com/problems/maximum-sum-circular-subarray/submissions/2137108659/)
+session3.1[click here](https://leetcode.com/problems/string-to-integer-atoi/)
+session3.2[click here](https://www.hackerrank.com/challenges/alternating-characters/problem)
+session4.1[click here](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2137138169/)
+session4.2[click here](https://leetcode.com/problems/find-and-replace-pattern/submissions/2137149626/)
+session5.1[click here](https://leetcode.com/problems/string-matching-in-an-array/submissions/2137154208/)
 
 unit(3) week7 session(1)[click here](https://leetcode.com/problems/design-parking-system/submissions/2128028138/)
