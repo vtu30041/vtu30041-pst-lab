@@ -36,6 +36,8 @@ session4.1[click here](https://www.hackerrank.com/challenges/diagonal-difference
 session4.2[click here](https://leetcode.com/problems/transpose-matrix/submissions/2135938286/)
 session5.1[click here](https://leetcode.com/problems/matrix-block-sum/submissions/2135946255/)
 session5.2[click here](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
+week{5}session1.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2137095841/)
+
 
 
 unit(3) week7 session(1)[click here](https://leetcode.com/problems/design-parking-system/submissions/2128028138/)
